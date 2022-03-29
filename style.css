@@ -1,0 +1,22 @@
+body {
+  align-items: center;
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+#clock {
+  color: #aaa;
+  font-family: 'Barlow Condensed';
+  font-size: 5em;
+}
+
+footer {
+  align-items: center;
+  color:#aaa;
+  display: flex;
+  margin: 10px;
+  position: absolute;
+  bottom: 0;
+}
